@@ -1,1 +1,6 @@
 data_test
+resource/reference/hg38*
+*.bam
+*.sam
+*.gz
+*.bai
